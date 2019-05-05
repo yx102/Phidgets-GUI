@@ -6,4 +6,4 @@ Thus, in the GUI, the user could choose the channel from which the data to be co
 The interface also has a function of "zero". Just as normal commercial load cells, it is recommend to first measure the voltage when there is no force on the load cell as a "base line". The built-in equation would adjust itself through this "zero" button.
 The status display would present all previous commends that the interface did before, and also it will show the error information when something is wrong. Of course, if one prefer to have a clean status display, a "clear" button is there.
 
-The "phidget22.jar" is the library provided by the manufacturer
+The "phidget22.jar" is the library provided by the manufacturer(https://www.phidgets.com/downloads/phidget22/examples/java/VoltageRatioInput/Phidget22_VoltageRatioInput_Java_Ex.zip).
